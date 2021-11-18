@@ -26,6 +26,4 @@ public class DrawerTest {
     public void productStartsEmpty() {
         assertEquals(0, drawer.getProduct().size());
     }
-
-
 }

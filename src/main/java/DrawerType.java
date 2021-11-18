@@ -1,3 +1,4 @@
+
 public enum DrawerType {
 
     A1(),
@@ -12,5 +13,4 @@ public enum DrawerType {
 
     DrawerType() {
     }
-
 }
